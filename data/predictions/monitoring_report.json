@@ -1,0 +1,11 @@
+{
+  "checked_at": "2026-03-10T13:50:39.131405",
+  "n_predictions": 195,
+  "baseline_fraud_rate": 0.08,
+  "current_fraud_rate": 0.1179,
+  "fraud_rate_drift": 0.4744,
+  "baseline_avg_score": 0.15,
+  "current_avg_score": 0.1179,
+  "score_drift": 0.2137,
+  "drift_detected": true
+}

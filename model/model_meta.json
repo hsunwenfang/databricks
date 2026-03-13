@@ -1,0 +1,25 @@
+{
+  "model_name": "fraud_detection_model",
+  "alias": "champion",
+  "version": 1,
+  "roc_auc": 1.0,
+  "params": {
+    "n_estimators": 100,
+    "max_depth": 4,
+    "learning_rate": 0.1,
+    "subsample": 0.8,
+    "random_state": 42
+  },
+  "feature_cols": [
+    "amount",
+    "hour_of_day",
+    "day_of_week",
+    "is_weekend",
+    "avg_amount_user",
+    "max_amount_user",
+    "txn_count_user",
+    "amount_zscore",
+    "is_cross_border"
+  ],
+  "trained_at": "2026-03-10T13:50:09.625550"
+}

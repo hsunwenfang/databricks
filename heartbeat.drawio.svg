@@ -1,0 +1,2034 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: #F2F2F2; background-color: light-dark(#F2F2F2, #1d1d1d);" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1329px" height="981px" viewBox="-0.5 -0.5 1329 981" content="&lt;mxfile&gt;&lt;diagram id=&quot;hcbqKFtAQgippq_9OIkk&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <style type="text/css">
+            /* latin */
+@font-face {
+  font-family: 'Consolas';
+  font-style: normal;
+  font-weight: 400;
+  src: url("data:application/font-woff2;charset=utf-8;base64,d09GMgABAAAAACt5AAsAAAAATPAAACnVAAEAAAAAKiQAAAFVAAACsgAAAAAAAAAABmAAgzoREAr/JOhCC4M0AAE2AiQDgzoEIAWMVgcgGxU/RQbuOqndg4hiPmSqFgmZF6z++PXnn//+CBnmhofXLvrJzALOgervKljuiHJfjnJqu7JsJzOSHccqHQIKHDlEJbYzH+nuJ11/ABgALAcFhe+1Q7DNDoXpdHNGDhELLBCUGCgKrSISimBgUgZWTyc6jKzfnLNW7dKPcv2x6H8/95Hb8Pw2e9ymLlrB+FgfFPgYlIEFBlGiWBg9sDEiVvZhNcNVsG6uXUS4ZJEHz7+6Pq8Wud+3uwG0Q0ga+43HObbkleSZ40BFwBX21KVi7HJ+GcD/01m2knUXAi7KCTVdqsL+M/JF+p71Ao+1+55s78vKy2TpYAwhwuoIuAwAdsBFk6ZJXwGVSZl3RVsEhrFZwhwsopzSRoGJ92mz1DLrlNqQjyAOYffHa+cCw+wmFmDBblllqQQitxqZ8ZBuErtDuqzgTUrTkOYEKMZkfho1Vor6oGpafud/i3a2NrIOqcb4ZklBoTDe0PA41I0p9hmVcZlJGK55D+WoQX1a0YFRjOM817nPez7yEy0qyGvylXyjwiqpsqqgqqm14hXzoChPTRrQmo6MZgMXuMEDPvCJXwyHhlRcpdUaZUL/x11ng74M+jWH2dTtdHvQw/Rw0FXzx/I785s+zPCMfRj9oU0C8iiPjIbIaLYU7ejyjuuO8olUsO7w4PoHw2A2+znFEe4xnH2sZwNbuc80ZjGTlcxgOk94zFPmcoCN7GETO9nLCDazii3swmAORznGYY6zm21M4CAnWM4zZnGISTznAde4zihesJ11TOUqJ1nBbe5wl3kUpRzlqUBFKlGZh1ShGtWpQU1qUZUBtKMHPelFb/rQl0f0YyCDGMwQhtKfYcxnAYtZyCKWUGRjcuIkhE1rfIkzXx7yxCFXcWwT+LJNqtA2clKBeOLHzUxAWdyGHHmgwdLNU9Yz6nNJpQYXwljqophIblxdVJ1xcbqGu38m+eayRWMJR1lEICmxwUimExH0zCLXKxOumew9qGoACeyHZIvuhSaDZPEJkr6stDbNeNBuBD2ujMfpdpZ0u6Mua8gbDvschcJJV1V73BFyu5x+QwV8Kbc74CrgC4d46LFl8uOo8E9SyipQlisIr61UlGUpJam8t3JFYVpaBe8hPrnsWXhIkpanv3lJTolc5Fs1rq6cBUXhxcVc5EoxVyQuPvSQ4paKogLUh3MeAlpMFaeqKIlEQcHzzxd/qzz2fPwJ0dmoP6YVZaVSqChPFb0UL3yk8KmHxUdlUSl6RFQSCXzyfYw89ZQSfyqhPKHg4++LcYyIT8ZFjLwsKkVgF0kSQeYzIRaLKcWUL6J8YaJgp+V5Hqigo8vtIAgAOLq+7ze6C8zaf/40OGcvHuT2oUvn0mAmMkCYLy8liqWQSN4lWJ467fu+aQeLAYCAbhiGZVzgYSTkwX8PInYYhs6UfY0FATie5zHrDrqhsdBx4f0MxRhiuCuVoCRLCHukc70IlCS2yfm+j25vb++KiMRlsY/ZcEAOV1CegijxfKGYjCJJPMWkmMyKuEwxi2wKz/FbProhj0o8DWvGq2EtbkslCAuSaWgy1VIw9UwOCEs0I4spaDJFIdkPsSQaQbLkCd9XIz4wapEwDElqQQCSv3cDENENqwK6wfdMFgRV8qLPNa6Z1vIaRxrMlonZGQARM6r6a75Wbqf7gGgVvcdZaJ6mBhENvZsLVCxsnpCkAiiUeCpRVhxjSmeHx5Fy0IT5kixRDkxdzTxBlqz+Ms2gNKxphLVrsK4BGyknQKQJ6zSjgXJJVsQpwVNpKSJlgJJMEuT9u60+2kgeZCAb3C0VVfKu+0LJcKLAsSwKQY1qxoAy/p2E9wZn5jkVjOBusrp/a+QsX6OzPYJarrcDPXemO1UkltItABjQdl6QGxdI6UVpI3I7GhUq782oMiaarnETV7YPX9PZpwxOoBMKau5bXwjXXAiQ8yDDpR+TB9+Kfs561b0bwTxIR8O73IgMBEuQdXxlAt9MGD7PyttWoaNSAE4vYVqSCFGJy/xf2dVy1JzQCTnBS+fbmOV/W+UnXgfjN86OtBzldvj5xZaOk3xjz8osJ3MyndwO9Oq+ocuHyfIXXs2lPDAXoTPvpSCaTvZVz/uj8kQEdZK1lpHEZXNbEPfacDuz2oaugnN9pIPbnaM3TLDiJ35Gu/wg01Yi3SztWAPW8tMKRp+K2iePngWnb8xTReXwoJ1vGketM1y6MWfnOkEk1CIUFsOqfjH8qm+ZE3yHLw61Yvb1B4ux3Y9GHiKGm+JjndFSIZzoIaA4pBvqg3C7ZTbQXb1SbHPzcrT5lq/NzSliqLeEHDHMieZUzfcp0McEncOjKFqg6Y0w/DqKVEFvUIE5qLa+MqVEqTisvhYa6pVaFo1Ez3P8zHSy0SCabkWqiO9M8CTbliTXf3OyxhLHFUml/TE7fRWx8suirFeffX7h524UlTnlfTIGb3Bueh6TTwXB7HrjzyowjIfEPI96ZoohACdsXgxeq+SGjloNUzXZpRDlM2WvBNXSbr7XRAT9q97N7Tkjruo3fe9ZJam/FvXQG7YeyHmO7+nurl+K5lpr2QCKLYVLk/Fv53ksBvHyNQZmefPezTFmLRTig1ieqoEe9gv9/JI20nDX/FAX6ptMr7lR3zc/5q0tw+aQOY/ty1cHw6WQoBprDwdUgrGpmwa6CkYtYYGbiF+LW7fQXXq9g3kkZ2fBmX+l8uNnyu2/0Mysy+f7wBm42MLt1kuD8nvKpkDpFxFfRD0SPJkj119IfgycYDGTRq45XecPM2sB3d5Lx8AtOHqxZ1MQvIkmP8ntkU3JDGS16TCc5HZHM6Ec40iueEPp6V0Xeb2fXtnpbYUYQbdYnnf7vfMvD6WJOuIHLQbrCPNNT0prAt3+4WZfyPFyFUxtSQ2travz/RyP1oYdGgaWtD5gBgXIysrVBgEJtmc8b6yVirYz63A4+aIuZUkZgj3kuzY3N297uW/wRHbrPeeFusO5SW63tLRw+1jrILrXxgUVbOhW4QWHskjO6/WjOaHaOrW+oaah3qirpUyJWt+w/nj8jVnTqKvd8CmkHNBmIKQinqJinia39bu6MNxZpOWbH0Q/j8bQ/hesOxrdF4PPjqqH9/i/9XmJZCbl5bzE5UbGzDd4oUjfN8Q7R70GNFmL3NVSfSZYiNT+IDNh+FjmzXuI2iFfH0eXR2wj4NwGILW6BLKVek21UWVipkarpAuRjc+8x7vbywvaiz264o8v1hhCY9e7Ct5Wv+hxTejnRjtPaVrit9NDbcdLkbSzuSySC4QX6oZNLAqBOg/f3DRFy2/uR2S7u8AJRoLHOpgmn2kCEIGqtUh+duYvzvYqiyGov/IXbonquhniaMYxlrcaIRfKM2DuzeS59XHvyAV0l6xUWmMGMP5jBdI+z5F3zeBeWHSHNfUS72qoZ99lhrp3AJwhrwO52XOXOl/P7fRah9I2CPIe/BfJPD5gFzdF19ipHxywFM1owX1ylvfNmeZXNdOeBWDozplcMunS8rf2tY1C1Q3Dcb7WDW1QhTA0VY/v9IWmltsd34TDkFCd9t9lM8F3mfxDtetq9x2/5mvZXC8wVIp8rUx2omM2+GlryylByzp2I4uZbv9dNhC8p0/xdzRikmCZ12EEOHY0tX+qF2evh6GcUaMlSff5wK1JALhmIATNnaXrQykfbOetH/iN9mo0ggnOVN9lZg0PZoAwi6ydFUB8LLHKJISX7rfnuCtm5F2QwS2RslLGVqt4aNOJtG+xwTqxautJu9QPPlzKH2YJ2W2SKlOam+62soRo793TrAuLZYOuEume7v6CkOuFyCoyfXAbCujD3RlUmRmZGVtAqsx3mGdl7A7dBW+geZSbmcGGsJTFLfx64wDyL9L5sz6G5N37zC83G0AlU6aT2wd50k3A9Ic2Ljx2+H1Rstt2bMX924/jdJVy5MdZmUajyz6/uaiwgJgbS2VKc6h5LET+2b2rk1lxRYpsKwXjAuluMG5148ZJe8iJniw/C7Y5t5I/smjLOUTIBzdvMgWgE35i88Ja0roXG0tlcnNoiVlJa5pobmQuk5p/bFKxCyK/dJVNWTj2LYrsyLmPbhqf4Jarl2/TBOaVC0qWDHMqfxjSnmz0M4j+bCTGcgmiv2jWcs0Tckq9fZly/Q7KSlU+dz+9NHVrz63MVvjbVbuMzH4jcSNjc6Pdd7O89YHWajuVzNS2RplUHX3GlPbctoRYGbGOVlpaFptfJS8plhVVaV02VgYR3jAr8wreIp7xAg5g8JMABicdvJT+X3rWKyxSymRo0OHG4yrYv4Vd9VifsMjArL0MD5VP5lCgSozXhNmijFDWn2r+t7b+QfOttfUj7Q9AsZHg7JrofAaOgv8Gu5ry9dmvzwK6vjE5vKtBeZFQIgMweOmJ0CzVYIFnRDIuLNJH++o/bwfeuhohPD28HpLuxCOhxb7mgT4iEbkQEX5y4/xwfwEIxQeMMZbsvPmcccn/g6v3UhoSR13CkCs89KB3gqKPo63bd77i3SeQm9JhNM8dML8cS3Y+Qu9Vl/fGXvWvdgQwuCQQE3RW3Eq4lFkySdQNf2+4CFZfARj81QCpHzmA3CCBoOf1focs+i14JwEM/gSEPg8ORw/7JmZMR+Q2BF0oKsddUNdPcPNsjp1s/n3KvPfcWF0CItkmaSem4W7MwJz495np+Hczq88VLXETLuFu4K/1OFTcOoDB131QPusA0WfADlgMYH/ADlkMYQH5DrxNGjCgzhtmZniJzfjWzL0Hjn09QODnlBys/vWXEeDw+HWtfh3A4Osp3yZvGevAg58BDH6iPhiQliGzODMK7cRlk6pTb2mbxjxIkdshKAy+tfI9ZZ48f/r7B+Dn1w5buBxY78wCgMFf2B+D1vmeL1oArF8HVqPfty2cF2fWnE2oPBL8x+iy5H3bwjlxZs3ZxKpF2u+nF4rcL0Y1V0bKpeXiqBbU2cxij4uCpopImbRCLGxBnQH0+lZx8Fh11VVB08yddQCD56et+TakiAZPF9fMGfpO7l2YWGwGX5prLYbV6oWApy3rEuO2Q+fEmTVnE6oWab8OTbF/LvlgMiXRwkKek6XCK5C/CyuZpFYsX2zwS5cF1429Lna/GNVUGSmXlouimlAntWUelwXNFXyZtEIkbEadBvDNjemUbzk/eUl56wAGTy6cDciIx9dEhXjoeHEZDPaedEGylzAKllmnLTu02kVXOfMo6GgQKklPimxtVFzEFhE1JsnmMXscl/jws8gyWfleAdE9MoAUxE8JqsQfIFTSUqKD8qLY+/QlqtMhtW4CmNBMsNtkSmA3bB8+3KmWkYIiU4Ir8QcIlSEp0qACwITW19cfr68fOgvo0zd1tOWSykVWXuVhelYxfladt54W5VzEjMrwEnQ0zPanrAMeCg6/Dv8ZjoJvWs0WiCASiNWxAsDuh8MM8FfTn2P6/Kf6rz2CzcMPGRMqLN6Gfjr+vOqECe2I8TFj9hkgfBKyJ3TPt+ujnTVbvt9jvv+kqxTw1HBEb/jW8XuIXs49429SLsmP7vgJhPZ1+hx7c2ih0eDz9rf2mQwQ8ruTTOe46saF8zqY04QOwmei3xxfubwEofiACcaUxH6Iid70vsPbMy75f3D1XkpD4qhLGHKFhx70TlBUsT3/+8R4s5qegIcGuAdxkvceCelVlnfFbvhXQxNaB1rXYgse3f7nn1b8JXXJGDG7of/pwFNAsfs1ClLDrwz8elXyvq3EjR9ZfJz2aU/k++qwKvIjLZyH0Ej658hnaT3kJ6FMq2NLnir78Wqty+/Z900o26p3CVpoJy0XC1tQZ4AdDH71YtoatiFdNJojDp6sPnBV1DTzTif+tjilovsoxbwiT/5J3MLEYi9AGTdIxIfCkmQVfkKBpzZk8PHi15/HxRdklcTOoeTu4+Zi+3irNLPAxG4vlYRUJT2+fOsbZpLTJWeWL8K2/E9/2kh4rBDQZ0yrOddqmk6EF8afcUvwBDD+ssHkDF+1GJ0u04fJ6/xOr1WI7OsDkqKIZDe2bTheLP7qlUemPZ6mQ0XH4XtA0GUU26nDUfAjgPxVFnHF0HyGny9stLu/wHBrcAlnlwbGpxCa5SdXj4+HHUQ+ArrHtdwbtU3HeXl4hfnHCysAZhiDXQjPPKxWyurCZHV+p9YqT2atp7N6SsRFX85qbQkdE6cA3cgPZWV3ZeTI3AxGvkNizrf4q5Nns+6Yqj/DLT1IuVyZRTtf3HE4Rpc5zcwtpywdlxixkLkskRLDoib5sUU+eVAWYB5/1uSs/P6P1dPdpzfXNtnd7IXumYxqB+ZaO9hHSF53UZCFlFptYlegnJ6z961fNxIdHrBmspMPqXFLoAcmhbKpZeUJZ0i1lYvoHE5AMjWCncMLHI2pvOTApGVPoj9iLaKFlFpNYldgHIq9c1DXgdv6KayXcTAmH8HBf+sWoqRqoDBT2OHKEeMYJB4pGhS64Ili92znKF88UjQodMETxR5ZzlHg5rK+WFYo8dhg+keJ/EaWAcywPAwbrxWyhD4SK8zA7MnTAKlU+HQ9SPTrRnXzje8AhC2XgXBmcm0RCFsu0xnB4NoCYv32w8zgmby8GaqG37a3ceEnnhPfKtLUs1Df2Sbe7gqcQ9hymc4IBtcWgbDlMhDOTK4t8Pppy2nvMoAZllUbH768+ylAqv7w6Xzwm183qpsPdF/gsp/mWNk6qP3jkAzD5MV9O9gvqq2s3ypx8a5cw9S2weTiEF6EX/CUxGTmFWHFvP98L3h8BcyMt0d3TB+TcIQ+EkvM6MTJ053L+lJ5vtx1g+kvEP07sgwY0+9KmBtVLWuCAt0iq1Qfeqm6hHm5qmVNUKBbZJXWhl5aq0/ybolU6PzZwlwaT+3awE/ybo1UZPtzhLk0ntq1AdBnTBv4N+vrjzEz8ck7zeeWAaxh1OwDvuZwtFKmD5PX+Z1eqxDZ1wckRRHJbmzbcF1W3q51QvvkRaB7rKNcKe05E6snKPfkD6MBbGilyvRu++a1OH2YrN731FqF1NEQqBAEEHXzf8AXqhyovcNXwK7e7Uno6bispZS4salN2I1Vo/roUrEHz5FPjon9z7AKgtesSR4xIQwJVoFI243TLFpJbKbkjkedZNVlbDrc1z7DJ2Ev26YwMIaLS2L4opVJsZOU8uDOXVF7RiU2PdZkZpxNeg0cHtmk9pY4xDlVUCK5rnJA67JYrt7FvHBmcW2XU4+T7VEM82rP1Xe6wqx8fIHFI3BzDDZ9VcwR+YgtsaPjJ053Lde9WnbdYPkLRP+NLAOox/aN3weJ0+T5t72XHGe3bwGOx/ZOj+2trllntWt2y/gnO222F2MOWw36HuzeqB47jzlo0Ra1DHxeWdSY1zw5+Gfh20cmeiP9vfI/AXNr205ZR2zKv26omQxW7u3WT0QTEfhoeEQoW4nkOdls3/h/MHCUOvldL/jEp5r8tU/PP02Yz4XAjv0usTJo3CuXESHU0TlFyBkl2c7l/LRiUUfNc+hqzVxlmrNhyI2Io4GS+kRB+f7utkh0qVhc7RtXLlVzcqTUGvSXg1U3mFZcMyJRHqWMiSRE4H0VbLJ8lXDYqx0ttNbREbt36VxEWDC3W+I4xEQfRa3+81FZxBVDc0P1qz/DdjI4AMyWdOgPhLQohJeBbBbIvQ3hCSpsMFdDZCe7GSQy4tFxCA3H6XEI7jmDLux6INF607o/8g5X5Z2M/MBrlE+yLPUq5GRoxB3+KVmzvFw99WReTshGWc9ybKFJN0AqFT5dDxL9ulHdfIA9frVH8jafVP16vZJxtappLbwQO8/+sFvytoB84PWxCsZGVeNaRCHmxU5lydqTXcKcYK7GtVGQT5vcX0tce2ohzAnmalwbBQXBk0uAPtOs69XgOjRBLs//IUB/4kBCa+Mk7QQtIca0bmR2X/+6DUlgA9m/F0cIi6In0qP4hGQGBS0aY/t3ZXhFqyJSybGIEIarOuyvlV+z6KMFmtEARexBr8QI/wwmDR0zzsZNqNHoEGFIIl0oIqQDhtFiPeEOTrr57yu5jhe8HKpJ6yfxsCKJ0RwqJpQExsm5ixM8gtzbgvjO5XJ5AzU8tNw5VEpM9xbR8mSRmYG1KH9y8W/aZIabfdTrGHtmQ3KibxumsQ0j2N4tCgvnEy+MSPDuhLh9k9Miylo7LiCd/n0b692Pjf2AdEa7G5r5cT4ReDc3+73b9vbdoX7A1FZiZ3b9OzOSCAh7mj+829la1lq25cO7l/3A/aN2X4uiRbHrycyGlkSwSG1AeNl8jpfU/moyTDx7MCKCzMvic7yD7a4lw6S9B212gkU9nxBetv/gUHgGMBurAfpMtXn9awtzc4vZenPz+tvXq7tTf+Z9cd53AnRLJSbpkgkGY3wpCeOsd8aYHErSY/IOoZ0O5S3h50RAV19Y1LyI3pUCcG63nSW2ffYiMtle2CexdX5SharoByenDDRrkwGNDCBo1qYPaLRhE4vXAnDuerLASmbNQUjWXJkASybzsTIbLgmx4cj4VoiCaEMiLici74ikX3FCMBnh2O/vCGb19oloPnKMhJzyPoGgfxoRcDg2diE22jfMp7+sWMcpA1/1379Dpj3htmUDq2ztWgZKbe3SBkrsbEsH0gGO/uvTxdreIns2Il7whT+GcfCQ/gKMO6AfgnHDfxwAbvf/itREAtL6ZpTOeBD1yNhY0wEZcGwIksIGCGugSSGITTcA/QBKYzKIMpgY6zqhR3QpFpLSHvlti5X+aDOnLkzu1m5aYPKxZ1FNsW+opS06iCzwzs+SqAlyy2FIoXVoYCdFsZNt0iG6EdaAo0AQCzZgIQONBUEUugFchCd00xsWmHzsXVhT7BtqaYsOchL45GVJ1ES5xbCVQuvQyE6KYqXYpEM4I6wBx8JCLNiAxRpgFoRl4QzAo2eeXaIpHzmGICe9T5LQP40IOPyPhdhonzDvgbIiHaccLHnYaJ9oxkeOIcgp7xMkzA+jTCYXrBkAo5ftkK1gEyoJhLGvowSzFw8+2dsfumoVxgz2bFflaPyzF9bNTydrkMeUAT5VMxFm+rmKQBj9OkYwez6OXLEKp1emDllUt1NmOjQzAOdytsw8ApzTE2GmX6IYVknIhvgVwIem/FeDj8PHNScrjyqPAPnJh9ea/e6c65Lr0jUcVA+qmyl6zn3Oa+Kt6FjRDkR/XpNek6wOQnWjejwlz3jPuE285e3LO4BPcTPyJE6LPIkDTQMaMA9ogN/yy3H9cYA7cVnVrwI4upKlcpXJXFUslqtKJlO5slgqV5nMVcWa/nkOaLfgi/oRGB7SX4RxB/VDMDyiPwi+TOk3GZVT3ma/2/WutmSlsrHm32enNh87AjCX/9FvWphNfprxftfXVdUrlSePH5t6cquhEjCSB2eBScBsKw8YIzxA+WdwtpUDjBFO6yzwXD4oPHFIt19ORYtXxkAc8jqyINacYipizIYTWmISOmkZwlbvZ/efG/61mTH7Gfn4iTdYErFBeOKQbv9TKlq8MhbikNeRBXHmFFMRIyGc0BKd0EXLELb6PL0fY/jXegbz4/Hjxz7Ax5QfWGJxABPRgY6wOeBXROulDQQVWR02j+iwiLA6yqmg9wHa29dfnUMpYZKScrEax6NL53BMfliMi4KWcxYK5yLVZTKB/fwQDwUzi60QhMgpGf4EtJQs9A84cM45xJ3imBkfPeZdVqgy772nWuzpH4mOVNjBC6RMBTOTrRBIoymZAUSM1Eno7z/Ofn3r3Xu0ryApX7ZafP3Ozfvv0L68pLzwVRLQ7jX0d0BtgdtgVBS7ryn/Ers1Zn+G15RKNcpMTd3M4jOjGySrmYKChrY21w3A7OGr2mfbbD684gYfHty2kz4/cHW+zYp1/+LNaFyLX9jANRuk/GASd6k9Q47HLN5C2gaMWgArZXibnWGpYTSnph0EyPYDkX0dLz6TwfOIwgs9/PzP6WBvz3jFOEoE13ETMhk8jyi80MPP/5wOZrnFKkHTgCZIM9VJ1pABi31Vw5ZEC7jJg8pOJUAUzdiZLdAMsP7YDM1osDMpx19MQDnR34EK+2sXGmvlWIE5VN+Juy8ZqZJFB9UEZVfJt/n9B39oCjjhsyN6gCgj1oc6TDnE/G+oRpWDXpJZ8Ju80+1rp8WJpduS8ve6z98ENiMGyZCKHxQskgY5iKO4fgnxrf0ei6ptaqhFfHmqG9vRf/mzOps9U+sCsDZf8RwL+bJ44xh8knkYvKh8ywcSwEWQ6y8pW3VCQ5s6+GPXjkvJVfWXlK274exdTKloiFGLM1qZZysKPE+nd6pD42KdbTzPqB5P8x6ZCZ0vs4sl8YORqmB5risnXmjTAgtMHWXR2cpMeUqEOAgP+k4LprUEK7OrinnD8jRWCJPNMjF7hwrdujbHEUV17ia5FEmwvCqPuERGnUDIqItLrPLg8Ss9nO2EAqVyZhQJWl5lBU+bkMhbX1mp5SUkrndWXyVvfWICT1tZsZ4HHsARsRj3NCG+9XZPzNZHsOPqyGDS2tI97wdiuh9/3lYpPrX6r4P+mBp5Y0ZDLEPgQhGi410aMxpjGUJXVyE6HjgYXe2yPMlIX3pxMCfXNNxzc4Blo0+6jJ0vDQ+sL4/eTFPOtZvttpsNMerGxGsfq6GYuV4n2BbVzJQQ3xyxH70sJ2nar9DItKdqQUGCkJMgj8f75bbMr0iNxPf7igl0UOfDa8S+Hm2m9DKnujy3b4J1sxfzOHtrG3cKM+cgIrVTWJFohVjzewS0r3vOtJIhkiPl4sbUyRh74A7/26Hb7qFeox7fPt4xrlN4DWdnDXomZ04L9yapemh5qJFp7k2Wu4Uw3VIZG4AdC//gMoLYSJwhNhLbj7cTGgkzpEYSYvryJ5/nKs9lXfo4C1AkmrmmuStNZomP8oOEyiKNJm2+5FBGAIETEhNQAb9v8Ki35wpzkNxgVynxk3HvMp9JAdTO91+8txzzD6AwPhOMH0f618Wn1u6LFu73k8mwdXIBTh+fUkeKEVb6SWVY/WycLiFTjmW6fWgnxOSkZkuwTNcP7USAkZb3yDO3zzP3/Wgid+qeeiRt1T12i+hxjQDOqPvcI+7VPXdP+lLtngQmi8N42j4Q/EfF6vHUyswjwopZ5v/LA7Q/y1dPpFY8K3OrZ+WYO5SF8x55hpUzQqPdSZxcZpTe53JsC3I3xnvoKTbmP4kb4YNSt+UXeEGaEZ+lHKb3Tj4cOeAJfk4ak4iiJdoyarqNnIB3kpGYsShaTGNES0phRNTlpFp5B0GbRmmPj/Q6IK6pbIwRb7+sAiEF7TLuQGv+FqNdWLVTPvaw2Tw8vcVdzvRKCibjRDJS+d7w/s7B4FQXDtVTSs48kLKf1eokchqCC6wFuyJ3eGSMYzJjSGWR+YWDSoxXOk7Ix6sB28rtkdu6W8mw+1baP2mPuk7fOH0T0H6ZSYuZ7Cm8SS9GsIyY0Bf1E4oW8zDxAVQ8D6eiVy7nzv01dnnIOa8wec2tRSrtAAzIRAJjvKz4EEurm+fkdVAf9KuczgXPK5v70jfJBv1QW8mRfUXqkE6TOMrzOUyqso+argnoPJFKc04NYSV7stBRu/mObOSa3mOJp9X6cajJnpwwtAaE9lW4cypuevRVbMwUAzokPIZdWyGfx6Zlz+ByYveVhJUbjrbyDjBKJrR0QklG4jg5Wz3kqxURCniFNZPFwWNKbkSsd+an6fH7ZQX5+2NlXgjmm6R9DOd8Yk6hlQrlwA1ha9kiD7argkFhOYR5Y9EcNi7JYR8pyY6D8eKA0J57lxKtj63ujFnOGarQnyPsVzG7TBSU57OYVGU/NV0b0CFNZI6XFs+zVWlz9LIO9rNND0qyJ4fnpWWHOKfQWCkeLJRwN9+BjZzWo5bCMjR+gPzzPXX3j1sPs6l1+0ZbGzbB73c7738wFk7v2Yb7s4JZhERPUWxmbF+QlK5zEYZgE2g4uIQiiInQFEj0I4D02IESkJTK6vZMRXQTTrxtc8g1oSVmU4iO5O+iLIKi9YIApuX+HXY23/6h8ybnWH3SXrr4igF16WvLigtjxh2O/+RsJuCiDNR5wxzVYDhBWZyPJxf9WNvKnf42IWc4x6/yoeRNdMKvT7qf9AAuykCdN8xRDQbTE4bT1Wd6nhoh9mTafu/omp3CUkV/67nogYlyXHHj4Vw8DzL2PX74H9H6s8X5eHLRj7WtXMBFGai0F9nvyPn7aNfr4OvB5REynHnIP/rLVNcRdA7S/R9yQoEU577XgYFFJvQXwPk7saqMSCYxpauSyozKnOc6MFG5PLHKPzQkFcXhe+aEM1C5PIkK+6xEjK9HEEePoSI2f3iHujygT707E50TQMqlwDQON+6JjGOAzff/O8B0u9M8tDTUPNTcv9TfDOhPl8oMhwxlvWUHDx0sg2zRFd0KQHsbjcHg/YuL/fEYTGYWBhNwVwKA8e4uDl18HDXAiMGNnX/7UQE/CUx3oHgsZqh1g6JX8ZOiVwGoqcm6nEn8JF6X63oJ7LZ5lp37tOLZOa6XAW11edFraUgGqLbh4YT9SYl1RFHMAZxchimPwLvW4mSzNC30swu/zkMEYrnObx0jsH62EXdAs4S0HGCE/i/+G+wAFWBBVpHV5AFSrx2UTUWQpqSpbMom7yIld5G7yF2ylXrZGpLWpHV6a8hEyI6QdCQdZUcoO/trNLn8TlaS+8kaslarlxkiSAbJkBlsspaU1JJaUitHqJf5kOST/PR8yETIYkiKSbEshrLUPyx9SHYxAbdaGQuNTMDmQfswsgMciqSxf3n/98/jqnf/1YDl2SYwa3tnBarYUZWu8db38Q7Gq0OHM3PW/Jlzv/c/QnHeSP50iY3/QRwAqAbX5grMgMHV2jf8Z3gAqzWaXwTvwBC6Sb10ULPAJPXgFZRq+10qFAEKPzo/MyozzoN1gD9wyiLYAMTaSGuc3ANMvdNAScbbEVVjfqn+8NsX8pQ9tN9Nd5oO7XPP4L4Ywy3Dpv/7O+8U0Kz8EqbACBEIANFlPaCa93fe/wfNGgxcVkOhGhA3oqCHRTUDE0ABcsAm+ASwQB5YAifBGHgDAkAZoIKJxZgWQR6QgRwABdg2ICXvz+7F+ztA8X6w5PtHgTF0vo4neZyWHnNyCU/yKtfwFq9yAU9yEU+q+KhvcShPcgTbcgwH8iyztZHHY8uSlqmv3gBH6j0PWe6vbpObN5jjL/Owuc4sMa+a10zO++Z+5piwP3Psb8Sczx08SjQ/cN3//5h55jazi1lgzjfC0/zSfy7cRsuTDBxmfuBJMG+beSxlBZdzDp6ruYh9+YFv2JnzuIF7eJadeY0r6ZlR8hO/mXU7vmFVfRYT7sGYruMmPqDnE57Mx+ZfYFnI+dFJSUucd2st5+ZXtSvNdME5F2cV2YIdop7yFixNrHL+e4F9YDhyHqvmv+WHtcf8a3HkAtbMT0cuZJf5x8mLXh25ct6vXISrSsKUJiQSHQeQkzNbNc4Y43FhSpGMAk9LTo3rjCqnQamwNP3mSk+DTefHFUfsCnClviYij4b0NVs2QhPDIdFQU1yMCLUcc8IjHIvHUwmNSjgeR0GG9NERGKtITD7hVEtZjw2M3Lgj4OlQHUgM2NUzxpN1oH/kHW+ixVKZC1fsiRxPkMA0aB7p6ei0Ah/44odx/gB7CvbagwLhZJt5kmSfvQJPccrCDGMviNoPGsJ0iy2VcYYHKRdv8EwSn/oIVDADvEJpnZWTVhSz4AdzgYsCUFWWCEGM6IX5LiorO4YLd5oxPagtpOJjf3lgYp+ZHyDNvJXVnEu5AGV4mhFuU/DipbAU+jxyjY+lILdAWGylNy4SNY1HHVBSMShkucvPzY/Bx4jIAeVyuNQDj3LOzzHKJCGOd1QZ+7MbwhH0wCZ/W+/O7uzDkbrQ1xoROTnHoKTCozEGKHElQNJ9D3ZjN/bmDDus1lUGXnqJ+znkysT6ItDtwtYZcFs9vHuDcAY1lXmMN+AgK01QJtZgNkmpOyDPZ7NZNvYuxazwbV67sc8brWyTa9/YfKajXT84Z03qKKeXn0xslJGqk6Yu1EUtJXk51vuqUTneFZlYV0odJU1Uprbp7ahR6YLvNKRB/FhO9s6noVM5vrVV7Sqxrsx9kDpFiX3XNbWGmMn5vg/SR/3eTMKRmY7Ep1hHKfxUg5bSu1LDb5ykoY20qsH3QcvsnKlhWhcaxVZBtVWXMs5ZlNYO4nySoGUdU6hHfdJdhvndsFtSN9WQdpHWl/V4EB8k6FRDVFFX1U5/pjvRJZPTGrVRU9wg2SL9s8Uf+yDWDbK115hq76IErWwoa1fJuTqSYxy9+AMkB4Y4TmPSA6Oq/37jznj1pCUAG7ECAAQe+7nya9Sbrwt+gQ5Yny6k5aSA93+qBpRvZIzRaWvr9VMH9RWsgAUNYJBqa+46F8euQRX4t5YAvTrftrYBe9D1Ff8NEIIO5kbD/XJxu4zulsQBvWAU/f+/HgDOi2hqQzrE+Z+pOdTwMfN6Ss350iRwkIo/BoC91zZFd4rMhYOxXdUdtCyexjosLDWzsJE8akKZmyhcJfZbsDxw254n2aYtuR5dnKi7Ugka3rFZ1E6UyfpSJuPDLG9EVHlwRLkhWfSfAAM/krb/O5ah4MBI09AGymlknLuuKWUYAxgnXHGqcuQiKZpyhEyNpCCN091E6UfesEz6IgkAFse+IzPe2yCR3SPxatztT5e6yDB5hIxf79jAyronljwVkCcLYBxTTyjIx+kb6Q6hipGXzAH/EvNu9M9HQDJAkUfWZ3C9sCiw9oQ2rPXixYYu4EN+DikXXw8=") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+        </style>
+    </defs>
+    <rect fill="#F2F2F2" width="100%" height="100%" x="0" y="0" style="fill: light-dark(rgb(242, 242, 242), rgb(29, 29, 29));"/>
+    <g>
+        <g>
+            <rect x="126" y="368" width="254" height="152" rx="12.16" ry="12.16" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 252px; height: 1px; padding-top: 375px; margin-left: 127px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <span>
+                                        <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            Kubernetes Data Plane
+                                        </font>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="253" y="393" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Kubernetes Data Plane
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="171.5" y="733" width="97.5" height="52" rx="7.8" ry="7.8" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 96px; height: 1px; padding-top: 759px; margin-left: 173px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font>
+                                        kube
+                                    </font>
+                                    <div>
+                                        <font>
+                                            apiserver
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="220" y="764" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        kube...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="109" y="45" width="300" height="270" rx="40.5" ry="40.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 52px; margin-left: 110px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        Kubernetes Control Plane
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="259" y="70" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Kubernetes Control Plane
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 281 215 L 230.46 156.69" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 236.96 158.84 L 229.73 155.84 L 231.67 163.43" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 185px; margin-left: 253px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        API
+                                    </font>
+                                    <div>
+                                        <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                            query
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="253" y="190" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        API...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 344.18 295 L 356.87 333.5 Q 360 343 357.28 352.62 L 331.2 444.9" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 329.43 438.29 L 330.89 445.97 L 336.17 440.19" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="281" y="215" width="100" height="80" rx="12" ry="12" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 255px; margin-left: 282px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    scheduler
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="331" y="260" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        scheduler
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 271 133.86 L 233.85 143.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 238.6 139.06 L 232.77 144.28 L 240.44 145.82" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="271" y="80" width="120" height="75" rx="11.25" ry="11.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 118px; margin-left: 272px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        controller
+                                    </font>
+                                    <div>
+                                        <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                            manager
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="331" y="123" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        controller...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="125.5" y="80" width="103.5" height="75" rx="11.25" ry="11.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 102px; height: 1px; padding-top: 118px; margin-left: 127px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        etcd
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="177" y="123" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        etcd
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 179.38 215 L 178.12 157.24" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 181.74 163.04 L 178.09 156.12 L 174.75 163.19" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 188px; margin-left: 163px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    API
+                                    <div>
+                                        Store
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="163" y="192" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        API...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 215.74 213.56 L 216.75 158.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 220.14 164.76 L 216.77 157.69 L 213.14 164.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="131.5" y="215" width="97.5" height="80" rx="12" ry="12" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 96px; height: 1px; padding-top: 255px; margin-left: 133px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font>
+                                        kube
+                                    </font>
+                                    <div>
+                                        <font>
+                                            apiserver
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="180" y="260" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        kube...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 183.49 400.83 L 180.32 297.23" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 184 303.01 L 180.28 296.12 L 177 303.22" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 341px; margin-left: 176px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #FFFFCC; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#FFFFCC, #181800); white-space: nowrap; ">
+                                    <span>
+                                        node
+                                    </span>
+                                    <span style="color: light-dark(rgb(63, 63, 63), rgb(183, 183, 183));">
+                                        lease
+                                    </span>
+                                    <div>
+                                        <span style="color: light-dark(rgb(63, 63, 63), rgb(183, 183, 183));">
+                                            heartbeat
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="176" y="345" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        node lease...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="144.75" y="402" width="65" height="23" rx="3.45" ry="3.45" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 63px; height: 1px; padding-top: 413px; margin-left: 146px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node 1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="177" y="419" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node 1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="136" y="441.25" width="100" height="61.95" rx="9.29" ry="9.29" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 472px; margin-left: 137px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    PV / CSI
+                                    <div>
+                                        Storage
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="186" y="478" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        PV / CSI...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 7 255 L 129.26 255" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 123.38 258.5 L 130.38 255 L 123.38 251.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 256px; margin-left: 62px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    <div>
+                                        <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            Client
+                                        </font>
+                                    </div>
+                                    <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                        API
+                                    </font>
+                                    <div>
+                                        <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            request
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="62" y="261" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        ClientAPI...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 258.96 398 L 181.61 296.78" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 187.96 299.32 L 180.93 295.89 L 182.4 303.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="257" y="398" width="87.99" height="110" rx="7.04" ry="7.04" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 86px; height: 1px; padding-top: 405px; margin-left: 258px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node 0
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="301" y="423" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node 0
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="271.97" y="436" width="58.62" height="22.1" rx="3.31" ry="3.31" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 57px; height: 1px; padding-top: 447px; margin-left: 273px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Pod 0
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="301" y="452" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Pod 0
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 271.41 479.27 L 238.19 472.66" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 244.64 470.38 L 237.1 472.44 L 243.28 477.24" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="271.41" y="474.05" width="58.62" height="22.1" rx="3.31" ry="3.31" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 57px; height: 1px; padding-top: 485px; margin-left: 272px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Pod 1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="301" y="490" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Pod 1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g>
+            <rect x="176" y="897" width="219" height="78" rx="6.24" ry="6.24" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 217px; height: 1px; padding-top: 904px; margin-left: 177px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Azure Private Net
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="286" y="922" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Azure Private Net
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="182.58" y="925.36" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 946px; margin-left: 184px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        0
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="206" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="236.29" y="925.36" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 946px; margin-left: 237px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        1
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="260" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="290.01" y="925.36" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 946px; margin-left: 291px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        2
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="314" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 375.21 925.36 L 398.25 861.1" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 399.55 867.82 L 398.62 860.05 L 392.97 865.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="346" y="925.36" width="43" height="43" rx="6.45" ry="6.45" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 41px; height: 1px; padding-top: 947px; margin-left: 347px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        3
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="368" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 503 830 L 627 830 L 647 874.5 L 627 919 L 503 919 L 523 874.5 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 142px; height: 1px; padding-top: 875px; margin-left: 504px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <span>
+                                        <font style="font-size: 18px;" data-font-src="https://fonts.googleapis.com/css?family=Consolas" face="Consolas">
+                                            Add IPs to
+                                        </font>
+                                    </span>
+                                    <div>
+                                        <font face="Consolas">
+                                            <span style="font-size: 18px;">
+                                                add port
+                                            </span>
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="575" y="878" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        Add IPs to...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 214.02 925.36 L 239.71 857.43" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 240.9 864.17 L 240.1 856.39 L 234.36 861.7" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 266.89 925.36 L 289.79 857.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 291.22 864.15 L 290.14 856.4 L 284.59 861.91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 319.52 925.36 L 338.89 857.49" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 340.64 864.11 L 339.19 856.42 L 333.91 862.19" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="383" y="794" width="104" height="69" fill="#ffffcc" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 255, 204), rgb(24, 24, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 102px; height: 1px; padding-top: 828px; margin-left: 384px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font style="font-size: 18px;" face="Consolas">
+                                        <i>
+                                            SNAT
+                                        </i>
+                                    </font>
+                                    <div>
+                                        <font style="font-size: 18px;" face="Consolas">
+                                            <i>
+                                                port
+                                            </i>
+                                        </font>
+                                    </div>
+                                    <div>
+                                        <font style="font-size: 18px;" face="Consolas">
+                                            <i>
+                                                exhaustion
+                                            </i>
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="435" y="832" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        SNAT...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="651" y="741.5" width="97.5" height="52" rx="7.8" ry="7.8" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 96px; height: 1px; padding-top: 768px; margin-left: 652px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font>
+                                        kube
+                                    </font>
+                                    <div>
+                                        <font>
+                                            apiserver
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="700" y="773" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        kube...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g>
+            <rect x="651" y="897" width="219" height="78" rx="6.24" ry="6.24" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 217px; height: 1px; padding-top: 904px; margin-left: 652px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Azure Private Net
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="761" y="922" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Azure Private Net
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="657.58" y="925.36" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 946px; margin-left: 659px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        0
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="681" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="711.29" y="925.36" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 946px; margin-left: 712px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        1
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="735" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="765.01" y="925.36" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 946px; margin-left: 766px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        2
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="789" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="821" y="925.36" width="43" height="43" rx="6.45" ry="6.45" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 41px; height: 1px; padding-top: 947px; margin-left: 822px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        3
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="843" y="952" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 683.79 925.36 L 691.97 861.01" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 694.7 867.28 L 692.11 859.9 L 687.75 866.4" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 724.71 925.36 L 693.23 860.8" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 698.95 864.55 L 692.74 859.79 L 692.66 867.62" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 765.62 925.36 L 693.91 860.29" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 700.61 861.65 L 693.08 859.54 L 695.91 866.84" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="174" y="800" width="206" height="86" rx="12.9" ry="12.9" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 204px; height: 1px; padding-top: 883px; margin-left: 175px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        Azure FireWall
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="277" y="883" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Azure FireWall
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 282.41 810.89 L 287.29 782.85 Q 289 773 283.05 764.96 L 270.33 747.8" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 276.64 750.44 L 269.67 746.9 L 271.02 754.61" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="183.5" y="810.89" width="189.5" height="47.9" rx="7.18" ry="7.18" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 835px; margin-left: 186px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        IP0
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="186" y="840" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px">
+                        IP0
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="219" y="814.34" width="43" height="41" rx="6.15" ry="6.15" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 41px; height: 1px; padding-top: 835px; margin-left: 220px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Port
+                                    <br/>
+                                    <div>
+                                        3001
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="241" y="840" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Port...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="269" y="814.34" width="43" height="41" rx="6.15" ry="6.15" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 41px; height: 1px; padding-top: 835px; margin-left: 270px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Port
+                                    <br/>
+                                    <div>
+                                        3002
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="291" y="840" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Port...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="318" y="814.34" width="43" height="41" rx="6.15" ry="6.15" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 41px; height: 1px; padding-top: 835px; margin-left: 319px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Port
+                                    <br/>
+                                    <div>
+                                        3003
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="340" y="840" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Port...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 821 928.43 L 741.45 860.25" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 748.19 861.42 L 740.6 859.52 L 743.64 866.73" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 711 825.28 L 762.52 779.63 Q 770 773 760.33 770.53 L 750.67 768.05" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 757.23 766.12 L 749.58 767.78 L 755.5 772.9" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 291 746 L 412 746 L 424 758 L 424 789 L 291 789 L 291 746 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 412 746 L 412 758 L 424 758 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));"/>
+            <path d="M 412 746 L 412 758 L 424 758" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 131px; height: 1px; padding-top: 753px; margin-left: 292px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font>
+                                        Authorized IPs:
+                                    </font>
+                                    <div>
+                                        <font>
+                                            IP0
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="358" y="768" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        Authorized IPs:...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 770 746 L 891 746 L 903 758 L 903 789 L 770 789 L 770 746 Z" fill="#ffffcc" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(255, 255, 204), rgb(24, 24, 0)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 891 746 L 891 758 L 903 758 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));"/>
+            <path d="M 891 746 L 891 758 L 903 758" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 131px; height: 1px; padding-top: 753px; margin-left: 771px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font>
+                                        Authorized IPs:
+                                    </font>
+                                    <div>
+                                        <font>
+                                            IP0
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="836" y="768" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        Authorized IPs:...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 926 830 L 1050 830 L 1070 874.5 L 1050 919 L 926 919 L 946 874.5 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 142px; height: 1px; padding-top: 875px; margin-left: 927px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font face="Consolas">
+                                        <span style="font-size: 18px;">
+                                            IP0 backend
+                                        </span>
+                                    </font>
+                                    <div>
+                                        <font face="Consolas">
+                                            <span style="font-size: 18px;">
+                                                failed
+                                            </span>
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="998" y="878" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        IP0 backend...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1077" y="746" width="97.5" height="52" rx="7.8" ry="7.8" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 96px; height: 1px; padding-top: 772px; margin-left: 1078px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font>
+                                        kube
+                                    </font>
+                                    <div>
+                                        <font>
+                                            apiserver
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1126" y="777" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        kube...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g>
+            <rect x="1077" y="901.5" width="219" height="78" rx="6.24" ry="6.24" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 217px; height: 1px; padding-top: 908px; margin-left: 1078px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Azure Private Net
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1187" y="926" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Azure Private Net
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1083.58" y="929.86" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 951px; margin-left: 1085px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        0
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1107" y="956" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1137.29" y="929.86" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 951px; margin-left: 1138px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        1
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1161" y="956" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1191.01" y="929.86" width="47.14" height="41.66" rx="6.25" ry="6.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 951px; margin-left: 1192px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        2
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1215" y="956" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1247" y="929.86" width="43" height="43" rx="6.45" ry="6.45" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 41px; height: 1px; padding-top: 951px; margin-left: 1248px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Node
+                                    <div>
+                                        3
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1269" y="957" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Node...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 1120.13 929.86 L 1162.57 861.8" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 1162.43 868.64 L 1163.16 860.85 L 1156.49 864.94" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 1161.53 929.86 L 1163.68 862.13" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 1166.99 868.13 L 1163.71 861.02 L 1159.99 867.9" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 1202.92 929.86 L 1164.84 861.85" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 1170.77 865.27 L 1164.3 860.88 L 1164.66 868.69" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 1254.92 929.86 L 1211.94 861.79" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 1218.04 864.9 L 1211.35 860.85 L 1212.12 868.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <path d="M 1192 750.5 L 1313 750.5 L 1325 762.5 L 1325 793.5 L 1192 793.5 L 1192 750.5 Z" fill="#ffffcc" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(255, 255, 204), rgb(24, 24, 0)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 1313 750.5 L 1313 762.5 L 1325 762.5 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));"/>
+            <path d="M 1313 750.5 L 1313 762.5 L 1325 762.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 131px; height: 1px; padding-top: 758px; margin-left: 1193px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font>
+                                        Authorized IPs:
+                                    </font>
+                                    <div>
+                                        <font>
+                                            IP0
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1259" y="773" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        Authorized IPs:...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="664" y="818" width="152" height="68" rx="10.2" ry="10.2" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 150px; height: 1px; padding-top: 883px; margin-left: 665px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        Azure FireWall
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="740" y="883" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Azure FireWall
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="673.5" y="825" width="37.5" height="33.79" rx="5.07" ry="5.07" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 36px; height: 1px; padding-top: 842px; margin-left: 675px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        IP0
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="692" y="847" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        IP0
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 758.15 825 L 785.63 799.76 Q 793 793 802.1 797.15 L 847.97 818.07" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 841.16 818.82 L 848.98 818.54 L 844.07 812.45" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="721" y="825" width="37.5" height="33.79" rx="5.07" ry="5.07" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 36px; height: 1px; padding-top: 842px; margin-left: 722px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        IP1
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="740" y="847" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        IP1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="769" y="825" width="37.5" height="33.79" rx="5.07" ry="5.07" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 36px; height: 1px; padding-top: 842px; margin-left: 770px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        IP2
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="788" y="847" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        IP2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="824" y="822" width="85" height="60" fill="#ffffcc" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 255, 204), rgb(24, 24, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 83px; height: 1px; padding-top: 852px; margin-left: 825px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <div>
+                                        <font face="Consolas">
+                                            <span style="font-size: 18px;">
+                                                <i>
+                                                    denied
+                                                </i>
+                                            </span>
+                                        </font>
+                                    </div>
+                                    <div>
+                                        <font face="Consolas">
+                                            <span style="font-size: 18px;">
+                                                <i>
+                                                    -&gt;
+                                                </i>
+                                            </span>
+                                        </font>
+                                    </div>
+                                    <font face="Consolas">
+                                        <span style="font-size: 18px;">
+                                            <i>
+                                                timesout
+                                            </i>
+                                        </span>
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="867" y="855" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        denied...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1092.25" y="814.34" width="147" height="77" rx="11.55" ry="11.55" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 145px; height: 1px; padding-top: 888px; margin-left: 1093px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        Azure FireWall
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1166" y="888" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Azure FireWall
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1145" y="826.11" width="37.5" height="33.79" rx="5.07" ry="5.07" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 36px; height: 1px; padding-top: 843px; margin-left: 1146px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        IP1
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1164" y="848" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        IP1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 1229.5 826.11 L 1243.43 805.31 Q 1249 797 1257.5 802.26 L 1289.1 821.82" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 1282.26 821.7 L 1290.05 822.41 L 1285.94 815.75" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1192" y="826.11" width="37.5" height="33.79" rx="5.07" ry="5.07" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 36px; height: 1px; padding-top: 843px; margin-left: 1193px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        IP2
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1211" y="848" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        IP2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 1182.5 826.11 L 1214.97 801.97 Q 1223 796 1231.64 801.04 L 1269.07 822.87" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 1262.22 822.93 L 1270.03 823.44 L 1265.75 816.89" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1243" y="826" width="85" height="60" fill="#ffffcc" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 255, 204), rgb(24, 24, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 83px; height: 1px; padding-top: 856px; margin-left: 1244px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <div>
+                                        <font face="Consolas">
+                                            <span style="font-size: 18px;">
+                                                <i>
+                                                    denied
+                                                </i>
+                                            </span>
+                                        </font>
+                                    </div>
+                                    <div>
+                                        <font face="Consolas">
+                                            <span style="font-size: 18px;">
+                                                <i>
+                                                    -&gt;
+                                                </i>
+                                            </span>
+                                        </font>
+                                    </div>
+                                    <font face="Consolas">
+                                        <span style="font-size: 18px;">
+                                            <i>
+                                                timesout
+                                            </i>
+                                        </span>
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1286" y="859" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">
+                        denied...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="1099" y="826.11" width="37.5" height="33.79" rx="5.07" ry="5.07" fill="#ffffcc" stroke="#000000" pointer-events="all" style="fill: light-dark(rgb(255, 255, 204), rgb(24, 24, 0)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="595" y="357" width="285" height="140" rx="11.2" ry="11.2" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 283px; height: 1px; padding-top: 364px; margin-left: 596px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <span>
+                                        <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            Spark Workers
+                                        </font>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="738" y="382" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Spark Workers
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="580" y="63" width="308" height="270" rx="40.5" ry="40.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 306px; height: 1px; padding-top: 70px; margin-left: 581px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <font data-font-src="https://fonts.googleapis.com/css?family=Consolas">
+                                        Spark Driver
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="734" y="88" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Spark Driver
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 781 157.91 L 695.59 190.21" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 699.86 184.85 L 694.55 190.6 L 702.33 191.4" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="781" y="99" width="100" height="80" rx="12" ry="12" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 139px; margin-left: 782px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    DAG
+                                    <div>
+                                        Scheduler
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="831" y="144" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        DAG...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 696.5 137.45 L 778.76 138.96" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 772.82 142.35 L 779.88 138.98 L 772.95 135.35" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="593" y="99" width="103.5" height="75" rx="11.25" ry="11.25" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 102px; height: 1px; padding-top: 137px; margin-left: 594px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Spark
+                                    <div>
+                                        Context
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="645" y="142" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Spark...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="593" y="253" width="98" height="44" rx="6.6" ry="6.6" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 96px; height: 1px; padding-top: 275px; margin-left: 594px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Heartbeat
+                                    <div>
+                                        Receiver
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="642" y="280" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Heartbeat...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 477 135.59 L 590.76 136.48" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 584.85 139.94 L 591.88 136.49 L 584.91 132.94" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 137px; margin-left: 528px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    <div>
+                                        <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            Client
+                                        </font>
+                                    </div>
+                                    <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                        API
+                                    </font>
+                                    <div>
+                                        <font style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            request
+                                        </font>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="528" y="142" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        ClientAPI...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="608.16" y="386" width="258.84" height="99" rx="7.92" ry="7.92" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 257px; height: 1px; padding-top: 393px; margin-left: 609px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Worker 0
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="738" y="411" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Worker 0
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 676.07 413 L 688.85 302.93 Q 690 293 699.72 290.65 L 770.81 273.49" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 775.91 272.26 L 769.93 277.31 L 770.81 273.49 L 768.29 270.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="614.75" y="413" width="120.07" height="22.1" rx="3.31" ry="3.31" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 424px; margin-left: 616px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Executors 0
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="675" y="429" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Executors 0
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 137px; margin-left: 733px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    <div>
+                                        DAG
+                                    </div>
+                                    <div>
+                                        sent
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="733" y="141" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        DAG...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 693.5 225.32 L 774.81 242.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 768.33 244.74 L 775.91 242.77 L 769.78 237.89" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="596" y="191" width="97.5" height="48" rx="7.2" ry="7.2" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 96px; height: 1px; padding-top: 215px; margin-left: 597px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Task
+                                    <div>
+                                        Scheduler
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="645" y="220" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Task...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 184px; margin-left: 739px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    <div>
+                                        stages
+                                    </div>
+                                    <div>
+                                        sent
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="739" y="188" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        stages...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="777" y="214" width="97.5" height="58" rx="8.7" ry="8.7" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 96px; height: 1px; padding-top: 243px; margin-left: 778px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Scheduler
+                                    <div>
+                                        Backend
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="826" y="248" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Scheduler...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 740.18 413 L 694.56 293.34 Q 691 284 700.56 281.06 L 774.86 258.16" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 770.27 263.24 L 775.93 257.83 L 768.21 256.55" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="740.18" y="413" width="120.07" height="22.1" rx="3.31" ry="3.31" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 424px; margin-left: 741px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Executors 1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="800" y="429" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Executors 1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 313px; margin-left: 709px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #FFFFCC; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#FFFFCC, #181800); white-space: nowrap; ">
+                                    <div>
+                                        heartbeat
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="709" y="317" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        heartbeat
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 823.58 272 L 813.23 410.31" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 810.18 404.18 L 813.15 411.42 L 817.16 404.7" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 237px; margin-left: 729px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    <div>
+                                        tasks
+                                    </div>
+                                    <div>
+                                        sent
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="729" y="241" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        tasks...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 313px; margin-left: 811px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    <div>
+                                        assign
+                                    </div>
+                                    <div>
+                                        tasks
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="811" y="317" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        assign...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 271.97 454.76 L 239.76 463.23" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 244.56 458.35 L 238.68 463.52 L 246.34 465.12" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 346px; margin-left: 314px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 15px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    schedule
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="314" y="350" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="15px" text-anchor="middle">
+                        schedule
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 461 570 L 461 0" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1000" y="276" width="258.67" height="191" rx="15.28" ry="15.28" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 257px; height: 1px; padding-top: 283px; margin-left: 1002px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Cloud Storage
+                                    <div>
+                                        <font color="#000000" style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            <br/>
+                                        </font>
+                                        <div>
+                                            <span style="background-color: transparent;">
+                                                s3a://bucket/
+                                            </span>
+                                            <div>
+                                                |- _delta_log/
+                                            </div>
+                                            <div>
+                                                |  |- 0000.json
+                                            </div>
+                                            <div>
+                                                |  |- 0001.json
+                                            </div>
+                                            <div>
+                                                |- part-0000.parquet
+                                            </div>
+                                            <div>
+                                                <span style="color: light-dark(rgb(63, 63, 63), rgb(183, 183, 183));">
+                                                    |- part-0001.parquet
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1002" y="301" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px">
+                        Cloud Storage...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="967" y="61" width="247" height="144" rx="11.52" ry="11.52" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 245px; height: 1px; padding-top: 68px; margin-left: 969px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Storage
+                                    <div>
+                                        <font color="#000000" style="color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));">
+                                            <br/>
+                                        </font>
+                                        <div>
+                                            /tmp/spark-local-*/
+                                            <br/>
+                                            <div>
+                                                |- shuffle_0_0_0.data
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <span style="color: light-dark(rgb(63, 63, 63), rgb(183, 183, 183));">
+                                            |- shuffle_0_0_0.index
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: light-dark(rgb(63, 63, 63), rgb(183, 183, 183));">
+                                            |- spill_0.tmp
+                                        </span>
+                                        <span style="color: light-dark(rgb(63, 63, 63), rgb(183, 183, 183));"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="969" y="86" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px">
+                        Storage...
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="624" y="447" width="228" height="25" rx="2" ry="2" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 226px; height: 1px; padding-top: 454px; margin-left: 625px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 18px; font-family: &quot;Consolas&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    Shuffle fs
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="738" y="472" fill="light-dark(#000000, #ffffff)" font-family="&quot;Consolas&quot;" font-size="18px" text-anchor="middle">
+                        Shuffle fs
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
